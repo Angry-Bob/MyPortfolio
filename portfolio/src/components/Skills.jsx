@@ -2,7 +2,11 @@ import React from 'react'
 
 function Skills() {
   return (
-    <div>Skills</div>
+    <div className='skillsDiv'>
+      
+      <h3>Skills</h3>
+      
+    </div>
   )
 }
 

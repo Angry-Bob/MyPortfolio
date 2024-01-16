@@ -5,15 +5,13 @@ import Contact from './Contact'
 
 function Nav() {
   return (
-    <>
+    <div className='navDiv'>
 
     <div>Nav</div>
     <div>__________</div>
-    <About />
-    <Contact />
-    <Projects />
-
-    </>
+    Contact
+    Projects
+    </div>
   )
 }
 

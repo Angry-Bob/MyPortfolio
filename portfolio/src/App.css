@@ -5,3 +5,22 @@
   text-align: center;
 }
 
+.projectsDiv {
+  border: 1px solid black;
+}
+
+.skillsDiv {
+  border: 1px solid black;
+}
+
+.aboutDiv {
+  border: 1px solid black;
+}
+
+.navDiv {
+  border: 1px solid black;
+}
+
+.contactDiv {
+  border: 1px solid black;
+}
