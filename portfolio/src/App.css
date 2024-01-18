@@ -24,3 +24,14 @@
 .contactDiv {
   border: 1px solid black;
 }
+
+ul {
+  display: flex;
+  margin: auto;
+  align-items: center;
+  flex-direction: row;
+  list-style: none;
+}
+li {
+  margin: auto;
+}
